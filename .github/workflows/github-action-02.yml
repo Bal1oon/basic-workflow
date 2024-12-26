@@ -1,4 +1,4 @@
-### .github/workflows/github-actions-02.yml
+### .github/workflows/github-action-02.yml
 
 name: Test GitHub Actions-02
 run-name: Run GitHub Actions-02
