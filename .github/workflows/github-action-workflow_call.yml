@@ -1,4 +1,4 @@
-# ./.github/workflows/workflow_call.yml
+# ./.github/workflows/github-action-workflow_call.yml
 
 name: Workflows Names - called_workflow
 run-name: Runs Names - called_workflow 🚀
